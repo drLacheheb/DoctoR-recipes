@@ -39,7 +39,7 @@ Please ensure that your pull request follows the established coding style and co
 
 ## License
 
-This project is not have any license .
+This project have not any license .
 
 ## Contact
 
